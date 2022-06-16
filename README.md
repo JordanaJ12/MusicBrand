@@ -13,6 +13,14 @@ Projeto Integrador que tinha como objetivo criar um PDV (Ponto de Venda).Para is
 * 🎹 Verificar os relatorios análiticos e sintéticos.
 </p>
 
+### Desenvolvedores:
+
+O projeto foi desenvolvido pelos integrantes:
+- Gustavo Francisco Sousa.
+- Jordana Jesus da Conceição
+- Lucas Alves de Brito.
+- Kleber Utrilha Branco.
+
 
 
 
