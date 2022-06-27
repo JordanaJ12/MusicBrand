@@ -1,7 +1,7 @@
 # MusicBrand🎼🎵
 
 
-Projeto Integrador que tem como objetivo criar um PDV (Ponto de Venda).Para isso criamos um sistema de Gerenciamento de Vendas  de uma Loja de Instrumentos Musicais chamada Music Brand.
+Projeto Integrador que tem como objetivo criar um PDV (Ponto de Venda). Para isso criamos um sistema de Gerenciamento de Vendas  de uma Loja de Instrumentos Musicais chamada Music Brand.
 
 <p>No Music Brand é possivel:
   
@@ -18,7 +18,7 @@ Projeto Integrador que tem como objetivo criar um PDV (Ponto de Venda).Para isso
 <p>As principais ferramentas utilizadas foram:
   
   -  🔈 Java Swing: Interface Gráfica para o uso em Java.
-  -  📻 Banco de Dados MySQL: utilizamos um banco de dados online para registrar todos os dados do sistema de gerenciamento.
+  -  📻 Banco de Dados MySQL: utilizamos um banco de dados online para registrar todos os dados do sistema de gerenciamento (RemoteMYSQL).  
   -  🪕 NetBeans: IDE(Ambiente de Desenvolvimento Integrado) utilzada para fazer a programação do projeto e todo o seu desenvolvimento.
 
 </p>
