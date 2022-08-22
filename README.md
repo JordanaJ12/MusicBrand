@@ -13,8 +13,8 @@ Projeto Integrador que tem como objetivo criar um PDV (Ponto de Venda). Para iss
 * 🎹 Verificar os relatorios análiticos e sintéticos.
 </p>
 
-
-### Ferramentas:
+##
+## Ferramentas:
 <p>As principais ferramentas utilizadas foram:
   
   -  🔈 Java Swing: Interface Gráfica para o uso em Java.
@@ -23,7 +23,9 @@ Projeto Integrador que tem como objetivo criar um PDV (Ponto de Venda). Para iss
 
 </p>
 
-### Desenvolvedores:
+##
+
+## Desenvolvedores:👨‍💻👩‍💻
 
 O projeto foi desenvolvido pelos integrantes:
 - Gustavo Francisco de Sousa Matos.
