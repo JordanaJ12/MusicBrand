@@ -30,8 +30,9 @@ Projeto Integrador que tem como objetivo criar um PDV (Ponto de Venda). Para iss
 O projeto foi desenvolvido pelos integrantes:
 - Gustavo Francisco de Sousa Matos.
 - Jordana Jesus da Conceição.
-- Lucas Alves de Brito.
 - Kleber Utrilha Branco.
+- Lucas Alves de Brito.
+
 
 
 
